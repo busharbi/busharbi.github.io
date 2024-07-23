@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://busharbi.github.io/sitemap
+Sitemap: https://busharbi.github.io/app/sitemap
+Sitemap: https://busharbi.github.io/assets/sitemap
+Sitemap: https://busharbi.github.io/css/sitemap
+Sitemap: https://busharbi.github.io/includes/sitemap
+Sitemap: https://busharbi.github.io/item/sitemap
+Sitemap: https://busharbi.github.io/src/sitemap
